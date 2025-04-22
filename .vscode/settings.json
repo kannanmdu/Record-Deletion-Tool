@@ -1,0 +1,5 @@
+{
+    "vscodeTodo.createMarkdownByDefault": true,
+    "vscodeTodo.enableLineNumbers": true,
+    "vscodeTodo.enableWideView": true
+}
